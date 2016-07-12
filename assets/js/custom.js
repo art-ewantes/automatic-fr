@@ -9,6 +9,7 @@
 		$('#preloader').delay(300).fadeOut('slow');
 	});
 
+
 	$(document).ready(function() {
 
 		/* ---------------------------------------------- /*
@@ -23,6 +24,7 @@
 			}, 1000);
 			e.preventDefault();
 		});
+		
 
 		$(window).scroll(function() {
 			if ($(this).scrollTop() > 100) {
@@ -171,3 +173,4 @@
 	});
 
 })(jQuery);
+

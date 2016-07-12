@@ -1,0 +1,20 @@
+{
+  "name": "Art-ewantes",
+  "homepage": "https://github.com/art-ewantes/automatic-fr",
+  "authors": [
+    "art-ewantes <web-rawwwr@gmail.com>"
+  ],
+  "description": "portfolio",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "particles.js": "^2.0.0"
+  }
+}

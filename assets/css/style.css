@@ -25,6 +25,15 @@ a:hover {
 	text-decoration: none;
 	color: #999;
 }
+.particles-js canvas{
+	z-index: 1000000000;
+	position: absolute;
+	
+}
+
+.intro{
+	z-index: -10;
+}
 
 /* ---------------------------------------------- /*
  * Transition elsements
