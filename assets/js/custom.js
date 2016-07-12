@@ -8,7 +8,7 @@
 		$('#status').fadeOut();
 		$('#preloader').delay(300).fadeOut('slow');
 	});
-
+	$('.hastip').tooltipsy();
 
 	$(document).ready(function() {
 
